@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/justStore/static/css/main.be7c7870.css",
+    "main.js": "/justStore/static/js/main.3550def3.js",
+    "static/js/787.c73d9239.chunk.js": "/justStore/static/js/787.c73d9239.chunk.js",
+    "static/media/logo@1.5x.png": "/justStore/static/media/logo@1.5x.4e5e6347a20ecc93eeb2.png",
+    "static/media/iconmonstr-instagram-14.svg": "/justStore/static/media/iconmonstr-instagram-14.a0a4ee36d661d67aeeedf00adfdd6bf2.svg",
+    "static/media/購物車-icon.svg": "/justStore/static/media/購物車-icon.970ae18c578601810ba02fd2f4456d0d.svg",
+    "index.html": "/justStore/index.html",
+    "static/media/iconmonstr-twitter-4.svg": "/justStore/static/media/iconmonstr-twitter-4.9507a17a5de960b0706e6ad740252a73.svg",
+    "static/media/edit.svg": "/justStore/static/media/edit.9dfdd9d1cc2880562e7dd64bda7e5667.svg",
+    "static/media/upLoad.svg": "/justStore/static/media/upLoad.3a6cde0cf2b7ba8b64daaa268a2df9c1.svg",
+    "static/media/會員-icon.svg": "/justStore/static/media/會員-icon.6944ebb931f9101092e2ffb654dba502.svg",
+    "static/media/x-circle.svg": "/justStore/static/media/x-circle.4bee1bb3843c45bc88d6a6bdcec8d0b0.svg",
+    "static/media/iconmonstr-youtube-9.svg": "/justStore/static/media/iconmonstr-youtube-9.10dad78da3ad68332e3217821a732543.svg",
+    "static/media/arrow-right.svg": "/justStore/static/media/arrow-right.4e851e616b38f84c26f1658ec4f3c58c.svg",
+    "static/media/arrow-left.svg": "/justStore/static/media/arrow-left.5f1c44dbed003c62f6ca27887826e83e.svg",
+    "static/media/iconmonstr-facebook-4.svg": "/justStore/static/media/iconmonstr-facebook-4.98aa70376eaf18b2af8d225e0a1e3552.svg",
+    "main.be7c7870.css.map": "/justStore/static/css/main.be7c7870.css.map",
+    "main.3550def3.js.map": "/justStore/static/js/main.3550def3.js.map",
+    "787.c73d9239.chunk.js.map": "/justStore/static/js/787.c73d9239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be7c7870.css",
+    "static/js/main.3550def3.js"
+  ]
+}
